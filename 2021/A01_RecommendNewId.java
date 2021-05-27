@@ -1,6 +1,6 @@
 package zKakao_2021;
 
-public class NewIdRecommend {
+public class RecommendNewId {
 
 	public static void main(String[] args) {
 		NewIdRecommend a = new NewIdRecommend();
